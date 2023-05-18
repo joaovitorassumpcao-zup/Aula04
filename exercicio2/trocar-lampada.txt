@@ -1,0 +1,6 @@
+trocar lampada
+1. subir a escada
+2. desenroscar a lampada queimada
+3. descartar a lampada queimada 
+4. enroscar a nova lampada
+5. descer a escada
